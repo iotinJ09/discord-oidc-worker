@@ -1,6 +1,7 @@
 name = "discord-oidc"
 main = "src/workers.ts"
 compatibility_date = "2023-08-01"
+workers_dev = false
 
 kv_namespaces = [
   { binding = "KV", id = "f991bfb383e9423caebbfe74e8d235fa", preview_id = "68d64988288b4ae59fcd0c0011aaf656" }
