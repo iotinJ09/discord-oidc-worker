@@ -13,4 +13,4 @@ crons = ["0 */1 * * *"]
 DISCORD_CLIENT_ID="1304334505171095592"
 REDIRECT_URL="https://iotinj09.cloudflareaccess.com/cdn-cgi/access/callback"
 SERVERS_ROLE_CLAIMS=["752806346868654100"]
-CACHE_ROLES=true
+CACHE_ROLES=false
